@@ -1,0 +1,12 @@
+[
+  {"query": "grow shrink size",            "relevant": ["alice_ch01", "alice_ch02", "alice_ch04", "alice_ch05"]},
+  {"query": "tea hatter riddle time",       "relevant": ["alice_ch07"]},
+  {"query": "croquet flamingo hedgehog",    "relevant": ["alice_ch08"]},
+  {"query": "mock turtle school lessons",   "relevant": ["alice_ch09", "alice_ch10"]},
+  {"query": "caterpillar mushroom",         "relevant": ["alice_ch04", "alice_ch05"]},
+  {"query": "duchess baby pig pepper",      "relevant": ["alice_ch06"]},
+  {"query": "pool tears mouse",             "relevant": ["alice_ch02", "alice_ch03"]},
+  {"query": "queen head executed",          "relevant": ["alice_ch08", "alice_ch09"]},
+  {"query": "rabbit gloves fan",            "relevant": ["alice_ch02", "alice_ch04"]},
+  {"query": "генератор yield",              "relevant": ["note_01", "note_03"]}
+]
